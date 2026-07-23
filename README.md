@@ -6,7 +6,7 @@ Este projeto tem fins educacionais (MVP) focando na aplicação de Programação
 
 ## Tecnologias e Arquitetura (MVP)
 
-- **Frontend:** React (SPA)
+- **Frontend:** React (SPA - Single Page Aplication)
 - **Backend:** Node.js (API REST)
 - **Banco de Dados:** PostgreSQL
 - **IA:** Integração com modelo Google Gemini para chatbot
